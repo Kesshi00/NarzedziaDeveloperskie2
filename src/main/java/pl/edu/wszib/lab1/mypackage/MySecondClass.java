@@ -18,6 +18,7 @@ public class MySecondClass extends MyAbstractClass {
 
     @Override
     protected void myAbstract() {
-
+        System.out.println("firstField = " + firstField);
+        System.out.println("firstField2 = " + firstField2);
     }
 }

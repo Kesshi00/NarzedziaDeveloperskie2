@@ -1,6 +1,6 @@
 package pl.edu.wszib.lab1;
 
-public class MyFirstClass {
+public class MyFirstClass implements MyFirstInterface, MySecondInterface {
 
     private String firstField;
 

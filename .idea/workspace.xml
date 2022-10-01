@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="Nowa rzecz">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/myabstract/MyAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/mypackage/MySecondClass.java" afterDir="false" />
+    <list default="true" id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="New changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/MyFirstInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/MySecondInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/zadankolab1/Jadalne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/zadankolab1/Pijalne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/zadankolab1/Smakowalne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/zadankolab1/koktajl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/zadankolab1/koktajlTruskawkowy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/MyFirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/mypackage/MySecondClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/mypackage/MySecondClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -83,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664630393985</updated>
       <workItem from="1664630395278" duration="19000" />
-      <workItem from="1664630430224" duration="2505000" />
+      <workItem from="1664630430224" duration="5879000" />
     </task>
     <task id="LOCAL-00001" summary="Teraz powinno byc git ;&gt;">
       <created>1664630557098</created>
@@ -120,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664631288762</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Nowa rzecz">
+      <created>1664633386342</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664633386342</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New changes">
+      <created>1664633583535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664633583535</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +161,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teraz powinno byc git ;&gt;" />
     <MESSAGE value="Nowa rzecz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nowa rzecz" />
+    <MESSAGE value="New changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
