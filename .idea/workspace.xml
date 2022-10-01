@@ -4,56 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build-spring-boot.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom-spring-boot.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/components/Layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/Error404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/AppModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/DevelopmentModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/QaModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/modules/components/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/components/Layout.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/About.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Error404.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Index.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Index.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Login.tml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/apache-tapestry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/RunWithJetty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/integration/pages/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/integration/pages/NavigationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/unit/pages/IndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/unit/ClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/PLACEHOLDER" afterDir="false" />
+    <list default="true" id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="Teraz powinno byc git ;&gt;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FXFCHnClTIe9lTmD8JcfnxA9Rb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,13 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.edu.wszib.lab1.Application" />
@@ -97,7 +69,30 @@
       <option name="presentableId" value="Default" />
       <updated>1664630393985</updated>
       <workItem from="1664630395278" duration="19000" />
+      <workItem from="1664630430224" duration="359000" />
     </task>
+    <task id="LOCAL-00001" summary="Teraz powinno byc git ;&gt;">
+      <created>1664630557098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664630557098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teraz powinno byc git ;&gt;">
+      <created>1664630569622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664630569622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Teraz powinno byc git ;&gt;">
+      <created>1664630644425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664630644425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teraz powinno byc git ;&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teraz powinno byc git ;&gt;" />
   </component>
 </project>
