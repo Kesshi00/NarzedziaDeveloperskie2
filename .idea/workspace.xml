@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build-spring-boot.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom-spring-boot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/components/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/Error404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pages/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/AppModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/DevelopmentModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/services/QaModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/modules/components/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/components/Layout.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/About.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Error404.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Index.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/pages/Login.tml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/apache-tapestry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/RunWithJetty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/integration/pages/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/integration/pages/NavigationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tapestry/unit/pages/IndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/unit/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/PLACEHOLDER" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FXFCHnClTIe9lTmD8JcfnxA9Rb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.wszib.lab1.Application" />
+      <module name="NarzedziaDeveloperskie2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.wszib.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="" />
+      <created>1664630393985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664630393985</updated>
+      <workItem from="1664630395278" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
