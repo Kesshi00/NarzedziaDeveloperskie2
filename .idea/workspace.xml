@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="Nowa rzecz" />
+    <list default="true" id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="Nowa rzecz">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/myabstract/MyAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/mypackage/MySecondClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/wszib/lab1/MyFirstClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +43,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "vcs.Subversion.SSH"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.edu.wszib.lab1.mypackage" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.edu.wszib.lab1.Application" />
@@ -61,6 +72,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\tmrowiec\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4eaed8be-5050-4052-bb9b-8ae24e4ef81d" name="Changes" comment="" />
@@ -69,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664630393985</updated>
       <workItem from="1664630395278" duration="19000" />
-      <workItem from="1664630430224" duration="682000" />
+      <workItem from="1664630430224" duration="2505000" />
     </task>
     <task id="LOCAL-00001" summary="Teraz powinno byc git ;&gt;">
       <created>1664630557098</created>
@@ -99,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664630953406</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Nowa rzecz">
+      <created>1664631288762</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664631288762</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +141,9 @@
     <MESSAGE value="Teraz powinno byc git ;&gt;" />
     <MESSAGE value="Nowa rzecz" />
     <option name="LAST_COMMIT_MESSAGE" value="Nowa rzecz" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
