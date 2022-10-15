@@ -1,6 +1,7 @@
 package pl.edu.wszib.lab1;
 
 import pl.edu.wszib.lab1.mypackage.MySecondClass;
+import pl.edu.wszib.zadankolab1.RodzajSmaku;
 
 public class Application {
     public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class Application {
 
         MySecondClass mySecondClass = new MySecondClass();
         mySecondClass.run();
+
 
 
 
